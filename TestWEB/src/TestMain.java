@@ -11,7 +11,6 @@ public class TestMain {
 		System.out.println("Test shangjing");
 		System.out.println("Test 7");
 
-
 	}
 
 }
