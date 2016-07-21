@@ -8,6 +8,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		System.out.println("modify 2 time");
 		System.currentTimeMillis();
+		System.out.println("modify 4 time");
 	}
 
 }
