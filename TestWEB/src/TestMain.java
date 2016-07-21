@@ -9,7 +9,7 @@ public class TestMain {
 
 		
 		System.out.println("Test shangjing");
-		System.out.println("Test 7");
+		System.out.println("Test 8");
 
 	}
 
