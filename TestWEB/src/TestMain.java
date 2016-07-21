@@ -8,7 +8,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Test 5");
+		System.out.println("Test shangjing");
 
 	}
 
