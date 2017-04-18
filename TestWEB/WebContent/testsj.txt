@@ -1,1 +1,3 @@
 sj test the fork function
+
+fixed a defect of js
