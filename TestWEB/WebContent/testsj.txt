@@ -2,8 +2,12 @@ sj test the fork function
 
 fixed a defect of js
 
-test for fix a defect and add a dev branch
+sunxl fix a defect in this line
 
+test for fix a defect and add a dev branch. and this line
+
+
+sunxl changed this file, and this line
 
 sunxl changed this fi
 
